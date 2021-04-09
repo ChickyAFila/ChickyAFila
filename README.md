@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ChickyAFila
-- 👀 I’m interested in Computer Science!
-- 🌱 I’m currently learning!
+- 👀 I’m interested in learning!
+- 🌱 I’m currently learning! :D
